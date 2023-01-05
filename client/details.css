@@ -1,0 +1,84 @@
+#navBar{
+    background-color: grey;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    height: 50px;
+    font-size: x-large;
+    align-items: center;
+}
+
+.rowContainer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row1{
+    display:flex;
+    
+}
+.row2{
+    display:flex;
+    
+}
+.row3{
+    display:flex;
+    
+}
+
+.apiImg0{
+    width:50%;
+    height:500px;
+}
+
+#rev0{
+    width:50%;
+    font-size: xx-large;
+}
+.apiImg1{
+    width:50%;
+    height: 500px;
+}
+
+#rev1{
+    width:50%;
+    font-size: xx-large;
+}
+.apiImg2{
+    width:50%;
+    height: 400px;
+}
+
+#rev2{
+    width:50%;
+    font-size: xx-large;
+}
+
+#locationContainer{
+    display:flex;
+    max-width: 100vw;
+    height:400px;
+    position: relative;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#bottomNav{
+    display:flex;
+    background-color: grey;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.bBtn{
+    display:flex;
+    padding:10px;
+    width:100px;
+}
+
+
+#location{
+    padding:50px;
+}
